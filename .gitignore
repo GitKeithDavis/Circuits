@@ -25,3 +25,7 @@
 *.log
 # *.sql
 *.sqlite
+
+# KiCad #
+#########
+*.kicad_pcb-bak
